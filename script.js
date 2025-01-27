@@ -1,4 +1,25 @@
 document.addEventListener('DOMContentLoaded', () => {
+
+    // 在 DOMContentLoaded 事件处理函数内添加
+    const backToTopBtn = document.getElementById('back-to-top');
+
+    // 监听滚动事件
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > window.innerHeight) {
+            backToTopBtn.style.display = 'flex';
+        } else {
+            backToTopBtn.style.display = 'none';
+        }
+    });
+
+    // 点击返回顶部
+    backToTopBtn.addEventListener('click', () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+
     const modal = document.getElementById('modal');
     const modalImg = document.getElementById('modal-img');
     const closeBtn = document.querySelector('.close-button');
