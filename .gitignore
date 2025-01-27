@@ -1,2 +1,6 @@
-images/
-images/**/*
+# 保留 images 目录和其下的一级子目录
+# 忽略二级目录中的所有文件
+images/*/**
+!images/**/
+google_key/
+google_key/**/*

@@ -1,59 +1,94 @@
 {
     "dishes": [
-      {
-        "name": "لحم مقطع بنكهة السمك",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737550846827_IMG_2457.JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737550846827_IMG_2457.JPG"
-      },
-      {
-        "name": "سلطة شمال شرق باردة",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737550887586_IMG_2459.JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737550887586_IMG_2459.JPG"
-      },
-      {
-        "name": "شرائح البطاطس المقلية",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737551361640_IMG_2460 (1).JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737551361640_IMG_2460 (1).JPG"
-      },
-      {
-        "name": "بطاطس مع لحم البقر",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737551491436_a87a59feeb97afce60b7b97829315094.jpg",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737551491436_a87a59feeb97afce60b7b97829315094.jpg"
-      },
-      {
-        "name": "شرائح اللحم مع الفلفل الأخضر",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737551528009_IMG_2496.JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737551528009_IMG_2496.JPG"
-      },
-      {
-        "name": "خبز بصلصة السمسم",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737551574083_IMG_2425.JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737551574083_IMG_2425.JPG"
-      },
-      {
-        "name": "نودلز لحم البقر",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737551604661_IMG_2423.JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737551604661_IMG_2423.JPG"
-      },
-      {
-        "name": "سمك مسلوق حار",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737551668609_IMG_2170.JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737551668609_IMG_2170.JPG"
-      },
-      {
-        "name": "حساء الزلابية",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737551705512_IMG_2163.JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737551705512_IMG_2163.JPG"
-      },
-      {
-        "name": "معجنات ملتوية بنكهة الحليب",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737551744426_IMG_2082.JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737551744426_IMG_2082.JPG"
-      },
-      {
-        "name": "فطيرة باللحم",
-        "thumbImage": "https://imgbed.alonglfb.com/file/1737551779198_IMG_2039.JPG",
-        "largeImage": "https://imgbed.alonglfb.com/file/1737551779198_IMG_2039.JPG"
-      }
+        {
+            "name": "اسم",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961935495_东北凉拌_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961908012_东北凉拌.JPG"
+        },
+        {
+            "name": "سلطة شمالية شرقية",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961939184_凉拌牛肉_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961927191_凉拌牛肉.JPG"
+        },
+        {
+            "name": "سلطة لحم البقر",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961939783_土豆牛肉_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961905978_土豆牛肉.JPG"
+        },
+        {
+            "name": "لحم البقر مع البطاطس",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961936109_地三鲜_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961910345_地三鲜.JPG"
+        },
+        {
+            "name": "الطعام المطحون الطازج",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961941885_奶香大麻花_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961900172_奶香大麻花.JPG"
+        },
+        {
+            "name": "زهرة القنب اللبنية",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961940782_家常豆腐_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961908399_家常豆腐.JPG"
+        },
+        {
+            "name": "التوفو محلية الصنع",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961943402_干锅土豆片_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961919536_干锅土豆片.JPG"
+        },
+        {
+            "name": "رقائق البطاطس في وعاء جاف",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961938546_干锅花菜_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961919887_干锅花菜.JPG"
+        },
+        {
+            "name": "قرنبيط مشوي",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961943135_水煮鱼_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961918461_水煮鱼.JPG"
+        },
+        {
+            "name": "سمك مسلوق",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961939926_牛肉凉面_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961920983_牛肉凉面.JPG"
+        },
+        {
+            "name": "الشعرية الباردة لحوم البقر",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961936072_牛肉炒面_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961918697_牛肉炒面.JPG"
+        },
+        {
+            "name": "نودلز مقلية باللحم البقري",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961937592_牛肉粉_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961917485_牛肉粉.JPG"
+        },
+        {
+            "name": "مسحوق لحم البقر",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961937297_疙瘩汤_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961910754_疙瘩汤.JPG"
+        },
+        {
+            "name": "حساء البثرة",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961934452_青椒肉丝_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961912001_青椒肉丝.JPG"
+        },
+        {
+            "name": "لحم الخنزير المقدد مع الفلفل الأخضر",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961941791_馅饼_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961924850_馅饼.JPG"
+        },
+        {
+            "name": "فطيرة",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961942201_鱼香肉丝_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961903061_鱼香肉丝.JPG"
+        },
+        {
+            "name": "لحم الخنزير المقدد بنكهة السمك",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961943123_麻辣香锅_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961920869_麻辣香锅.JPG"
+        },
+        {
+            "name": "وعاء ساخن حار",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737961941519_麻酱烧饼_thumb.JPG",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737961906115_麻酱烧饼.JPG"
+        }
     ]
 }
