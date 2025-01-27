@@ -88,6 +88,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     menuItem.addEventListener('click', () => {
                         modal.style.display = "block";
                         modalImg.src = dish.largeImage;
+                        // 禁用背景滚动
+                        document.body.style.overflow = 'hidden';
                     });
                 });
             })
@@ -111,13 +113,18 @@ document.addEventListener('DOMContentLoaded', () => {
     document.querySelector('[data-lang="cn"]').classList.add('active');
 
     // 原有的模态框关闭代码保持不变
+    // 修改模态框关闭相关代码
     closeBtn.addEventListener('click', () => {
         modal.style.display = "none";
+        // 恢复背景滚动
+        document.body.style.overflow = 'auto';
     });
-
+    
     window.addEventListener('click', (e) => {
         if (e.target === modal) {
             modal.style.display = "none";
+            // 恢复背景滚动
+            document.body.style.overflow = 'auto';
         }
     });
 });

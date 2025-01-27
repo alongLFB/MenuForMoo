@@ -85,15 +85,15 @@
 
 .close-button {
     position: absolute;
-    top: -15px;
-    right: -15px;
-    width: 36px;
-    height: 36px;
+    top: 10px;  /* 改为固定距离 */
+    right: 10px;  /* 改为固定距离 */
+    width: 44px;  /* 增大按钮尺寸，提高可点击区域 */
+    height: 44px;  /* 增大按钮尺寸，提高可点击区域 */
     border-radius: 50%;
     background: #ff4444;
     color: white;
     border: none;
-    font-size: 24px;
+    font-size: 28px;  /* 增大字体 */
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -103,6 +103,16 @@
     transition: all 0.2s ease;
 }
 
+/* 添加移动端适配 */
+@media screen and (max-width: 768px) {
+    .close-button {
+        top: 20px;     /* 移动端增加边距 */
+        right: 20px;   /* 移动端增加边距 */
+        width: 48px;   /* 移动端更大的按钮 */
+        height: 48px;  /* 移动端更大的按钮 */
+        font-size: 32px; /* 移动端更大的字体 */
+    }
+}
 .close-button:hover {
     background: #ff6666;
     transform: scale(1.1);
