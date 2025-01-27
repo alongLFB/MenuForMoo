@@ -81,7 +81,7 @@
             "largeImage": "https://imgbed.alonglfb.com/file/1737961903061_鱼香肉丝.JPG"
         },
         {
-            "name": "Spicy hotpot",
+            "name": "Spicy hot pot",
             "thumbImage": "https://imgbed.alonglfb.com/file/1737961943123_麻辣香锅_thumb.JPG",
             "largeImage": "https://imgbed.alonglfb.com/file/1737961920869_麻辣香锅.JPG"
         },
@@ -89,6 +89,16 @@
             "name": "sesame sauce pancakes",
             "thumbImage": "https://imgbed.alonglfb.com/file/1737961941519_麻酱烧饼_thumb.JPG",
             "largeImage": "https://imgbed.alonglfb.com/file/1737961906115_麻酱烧饼.JPG"
+        },
+        {
+            "name": "tortillas",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737983976449_玉米饼_thumb.jpg",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737983968964_玉米饼.jpg"
+        },
+        {
+            "name": "Brown sugar steamed buns",
+            "thumbImage": "https://imgbed.alonglfb.com/file/1737983977318_红糖馒头_thumb.jpg",
+            "largeImage": "https://imgbed.alonglfb.com/file/1737983962055_红糖馒头.jpg"
         }
     ]
 }
