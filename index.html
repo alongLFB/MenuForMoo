@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>餐厅菜单</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="language-switcher">
+        <div class="dropdown">
+            <button class="dropdown-btn">
+                <span class="selected-lang">中文</span>
+                <span class="arrow">▼</span>
+            </button>
+            <div class="dropdown-content">
+                <a href="#" data-lang="cn">中文</a>
+                <a href="#" data-lang="en">English</a>
+                <a href="#" data-lang="kr">한국어</a>
+                <a href="#" data-lang="ar">العربية</a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1 id="page-title">我们的菜单</h1>
+        <div class="menu-grid">
+            <!-- 菜品将通过 JavaScript 动态加载 -->
+        </div>
+    </div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <button class="close-button">&times;</button>
+            <img id="modal-img" src="" alt="大图">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+{
+    "dishes": [
+      {
+        "name": "لحم مقطع بنكهة السمك",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737550846827_IMG_2457.JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737550846827_IMG_2457.JPG"
+      },
+      {
+        "name": "سلطة شمال شرق باردة",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737550887586_IMG_2459.JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737550887586_IMG_2459.JPG"
+      },
+      {
+        "name": "شرائح البطاطس المقلية",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737551361640_IMG_2460 (1).JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737551361640_IMG_2460 (1).JPG"
+      },
+      {
+        "name": "بطاطس مع لحم البقر",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737551491436_a87a59feeb97afce60b7b97829315094.jpg",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737551491436_a87a59feeb97afce60b7b97829315094.jpg"
+      },
+      {
+        "name": "شرائح اللحم مع الفلفل الأخضر",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737551528009_IMG_2496.JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737551528009_IMG_2496.JPG"
+      },
+      {
+        "name": "خبز بصلصة السمسم",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737551574083_IMG_2425.JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737551574083_IMG_2425.JPG"
+      },
+      {
+        "name": "نودلز لحم البقر",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737551604661_IMG_2423.JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737551604661_IMG_2423.JPG"
+      },
+      {
+        "name": "سمك مسلوق حار",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737551668609_IMG_2170.JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737551668609_IMG_2170.JPG"
+      },
+      {
+        "name": "حساء الزلابية",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737551705512_IMG_2163.JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737551705512_IMG_2163.JPG"
+      },
+      {
+        "name": "معجنات ملتوية بنكهة الحليب",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737551744426_IMG_2082.JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737551744426_IMG_2082.JPG"
+      },
+      {
+        "name": "فطيرة باللحم",
+        "thumbImage": "https://imgbed.alonglfb.com/file/1737551779198_IMG_2039.JPG",
+        "largeImage": "https://imgbed.alonglfb.com/file/1737551779198_IMG_2039.JPG"
+      }
+    ]
+}
